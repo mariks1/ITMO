@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<wml>
+	<card>
+		<friday>
+			<lesson1>
+				<weeks>2, 4, 6, 8, 12, 14, 16</weeks>
+				<audience>2435/6(Бывш. 431Д) ауд.</audience>
+				<building>Кронверский проспект д.49 лит. А</building>
+				<lecture>Информатика(Лаб)</lecture>
+				<typeOfWeek>четная неделя</typeOfWeek>
+				<lecturer>Балакшин Павел Валерьевич</lecturer>
+				<format>Очно - дистанционный</format>
+			</lesson1>
+			<lesson2>
+				<time>17:00 - 18:30</time>
+				<weeks></weeks>
+				<audience>2435/6(Бывш. 431Д) ауд.</audience>
+				<building>Кронверский проспект д.49 лит. А</building>
+				<lecture>Информатика(Лаб)</lecture>
+				<typeOfWeek>четная неделя</typeOfWeek>
+				<lecturer>Балакшин Павел Валерьевич</lecturer>
+				<format>Очно - дистанционный</format>
+			</lesson2>
+		</friday>
+		<l>
+			<q>
+				<f>
+					<z>
+						<time>watafak</time>
+					</z>
+				</f>
+			</q>
+		</l>
+	</card>
+</wml>
