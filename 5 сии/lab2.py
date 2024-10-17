@@ -2,7 +2,7 @@ from pyswip import Prolog
 
 prolog = Prolog()
 
-prolog.consult("first.pl")
+prolog.consult('lab1.pl')
 
 valid_answer = {
     "y": True,
