@@ -1,0 +1,6 @@
+[submodule "5 фп/lab1"]
+	path = 5 фп/lab1
+	url = https://github.com/mariks1/haskell-projecteuler-15-16
+[submodule "5 фп/lab2"]
+	path = 5 фп/lab2
+	url = https://github.com/mariks1/haskell-rbtree-dict
