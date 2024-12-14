@@ -4,3 +4,6 @@
 [submodule "5 фп/lab2"]
 	path = 5 фп/lab2
 	url = https://github.com/mariks1/haskell-rbtree-dict
+[submodule "5 фп/lab3"]
+	path = 5 фп/lab3
+	url = https://github.com/mariks1/haskell_interpolation
