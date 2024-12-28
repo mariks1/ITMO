@@ -7,3 +7,6 @@
 [submodule "5 фп/lab3"]
 	path = 5 фп/lab3
 	url = https://github.com/mariks1/haskell_interpolation
+[submodule "5 фп/haskell-parser"]
+	path = 5 фп/haskell-parser
+	url = https://github.com/mariks1/haskell-parser/
